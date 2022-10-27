@@ -1,0 +1,22 @@
+{
+  "name": "homework-3-solution-for-home-task",
+  "version": "0.0.1",
+  "description": "Two solution for two home task",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node homeTask1/index.js && node homeTask2/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penshinegor/ITOMYCH-NodeJs-Course.git"
+  },
+  "author": "Yehor Penshyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course/issues"
+  },
+  "homepage": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
