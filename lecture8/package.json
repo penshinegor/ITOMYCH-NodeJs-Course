@@ -1,0 +1,22 @@
+{
+  "name": "homework-8-work-with-promises-and-async-await-functions",
+  "version": "0.0.1",
+  "description": "Work with promises and async/await functions",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penshinegor/ITOMYCH-NodeJs-Course.git"
+  },
+  "author": "Yehor Penshyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course/issues"
+  },
+  "homepage": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course#readme",
+  "dependencies": {
+    "prompt": "^1.3.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
