@@ -1,0 +1,23 @@
+{
+  "name": "homework-9-work-with-modules",
+  "version": "0.0.1",
+  "description": "Work with import, export and modules",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penshinegor/ITOMYCH-NodeJs-Course.git"
+  },
+  "author": "Yehor Penshyn",
+  "type": "module",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course/issues"
+  },
+  "homepage": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course#readme",
+  "dependencies": {
+    "node": "^19.1.0",
+    "process": "^0.11.10"
+  }
+}
