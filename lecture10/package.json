@@ -1,0 +1,25 @@
+{
+  "name": "homework-10-introduction-in-typescript",
+  "version": "0.0.1",
+  "description": "Introduction in TypeScript (project settings, types)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "startHomework1": "ts-node homeTask1/index.ts",
+    "startHomework2": "ts-node homeTask2/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penshinegor/ITOMYCH-NodeJs-Course.git"
+  },
+  "author": "Yehor Penshyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course/issues"
+  },
+  "homepage": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course#readme",
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "system",
+    "target": "ES2020",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "outDir": "./artefacts",
+    "sourceMap": true
+  },
+  "files": [
+    "homeTask2/index.ts",
+    "homeTask1/index.ts"
+  ]
+}
