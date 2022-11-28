@@ -1,0 +1,23 @@
+{
+  "name": "homework-11-typescript-classes-and-interfaces",
+  "version": "0.0.1",
+  "description": "Work with abstract classes, classes and interfaces",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node homeTask/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penshinegor/ITOMYCH-NodeJs-Course.git"
+  },
+  "author": "Yehor Penshyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course/issues"
+  },
+  "homepage": "https://github.com/penshinegor/ITOMYCH-NodeJs-Course#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.39",
+    "ts-node": "^10.9.1"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "ES2020",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "outDir": "./artefacts",
+        "sourceMap": true,
+      "allowSyntheticDefaultImports": true
+    },
+    "files": [
+        "homeTask/teamComposition.ts"
+    ]
+}
